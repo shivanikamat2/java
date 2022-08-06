@@ -1,0 +1,27 @@
+class student
+{
+int roll no;
+String name;
+int mark;
+void get data (int r,string n,int m)
+{
+roll no=rno;
+name=n;
+marks=m;
+}
+void get display()
+{
+System.out.prinln("Roll no="+roll no);
+System.out.println("Name="+name);
+System.out.println("Mark="+mark);
+}
+}
+class student info;
+{
+public static void main (string a[])
+{
+student=new student();
+s.get data (15, 'priyank' ,745);
+s.display()
+}
+}
